@@ -1,3 +1,3 @@
 # practice-git
 
-這是我的Git練習本
+這是Arbor的Git練習本
